@@ -1,0 +1,11 @@
+{
+  "name": "bottleneck-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bottleneck": "^2.17.1",
+    "esm": "^3.2.18",
+    "redis": "^2.8.0"
+  }
+}
